@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "bridal-shower-games",
+  "title": "Complete Bridal Shower Games Bundle",
+  "blurb": "Quizzes, Bingo, puzzles, a scavenger hunt and keepsakes. $9.99",
+  "cta": "See the bundle",
+  "price": "$9.99",
+  "kind": "bundle"
+ },
+ {
+  "slug": "baby-shower-games",
+  "title": "Complete Baby Shower Games Bundle",
+  "blurb": "15 games for a relaxed shower, Mom-to-Be favorites. $9.99",
+  "cta": "See the bundle",
+  "price": "$9.99",
+  "kind": "bundle"
+ },
+ {
+  "slug": "bachelorette-party-games",
+  "title": "Bachelorette Party Games Bundle",
+  "blurb": "Bingo, trivia, photo fun and more, clean and easy to host. $9.99",
+  "cta": "See the bundle",
+  "price": "$9.99",
+  "kind": "bundle"
+ },
+ {
+  "slug": "adult-birthday-games",
+  "title": "Adult Birthday Party Games Bundle",
+  "blurb": "Bingo, trivia, charades and photo booth fun for grown-up birthdays. $9.50",
+  "cta": "See the bundle",
+  "price": "$9.50",
+  "kind": "bundle"
+ },
+ {
+  "slug": "free-party-games-sampler",
+  "title": "Free Party Games Sampler",
+  "blurb": "10 free printable pages from our bundles. Free",
+  "cta": "See the sampler",
+  "price": "Free",
+  "kind": "sampler"
+ }
+]
